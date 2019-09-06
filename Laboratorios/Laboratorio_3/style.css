@@ -1,3 +1,9 @@
+body {
+  backgroud-color: blue;
+}
+h1 {
+  text-align: center;
+}
 .grid-container {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
