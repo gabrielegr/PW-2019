@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "mappings": "",
+  "sources": ["../componentes/footer.scss", "../componentes/global.scss"],
+  "names": [],
+  "file": "footer.css"
+}

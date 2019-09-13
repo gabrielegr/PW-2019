@@ -1,0 +1,15 @@
+@import "global.scss";
+
+h1 {
+  font-size: $h1_size;
+  color: $color-light;
+}
+body {
+  background-image: url("https://www.freevector.com/uploads/vector/preview/12544/FreeVector-Free-Spring-Background.jpg");
+}
+.flex-container {
+  @include centrarflex;
+  .item {
+    border-radius: 0.5em;
+  }
+}

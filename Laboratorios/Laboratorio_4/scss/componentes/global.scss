@@ -1,0 +1,13 @@
+$primary_color: #3f51b5;
+$secondary_color: #9c27b0;
+$accent_color: #ff5722;
+$color_dark: black;
+$color_light: white;
+$h1_size: 5em;
+$hover: 200px;
+
+@mixin centrarflex() {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
