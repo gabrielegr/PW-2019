@@ -52,10 +52,10 @@ let addStudent = (obj) =>{
                             }
                         });
                 }else{
-                    alert("carnet incorrecto");
+                    alert("Carnet incorrecto");
                 }
             }else{
-                alert("formato de carnet incorrecto");
+                alert("Formato de carnet incorrecto");
             }
         });
 
